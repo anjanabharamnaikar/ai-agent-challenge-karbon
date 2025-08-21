@@ -20,7 +20,7 @@ An intelligent AI agent that automatically generates custom parsers for bank sta
 
 ### 1. Clone the Repository
 ```bash
-git clone <https://github.com/anjanabharamnaikar/ai-agent-challenge-karbon
+git clone https://github.com/anjanabharamnaikar/ai-agent-challenge-karbon
 cd ai-agent-challenge-karbon
 ```
 
