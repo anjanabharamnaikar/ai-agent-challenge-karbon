@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchain-google-genai
+pandas
+python-dotenv
+camelot-py[cv] 
